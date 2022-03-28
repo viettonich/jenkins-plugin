@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.3
+Plugin-Dependencies: caffeine-api:2.9.2-29.v717aac953ff3,jersey2-api:2
+ .35-4,workflow-api:1138.v619fd5201b_2f,workflow-cps-global-lib:2.21,w
+ orkflow-durable-task-step:2.40,workflow-job:1145.v7f2433caa07f,workfl
+ ow-scm-step:2.13,workflow-step-api:622.vb_8e7c15b_c95a_,workflow-supp
+ ort:813.vb_d7c3d2984a_0,apache-httpcomponents-client-4-api:4.5.13-1.0
+ ,credentials:2.6.1,display-url-api:2.3.5,git-client:3.11.0,git:4.10.3
+ ,jackson2-api:2.13.1-246.va8a9f3eaf46a,junit:1.53,matrix-project:758.
+ v7a_ea_491852f3,plain-credentials:1.8;resolution:=optional,scm-api:59
+ 5.vd5a_df5eb_0e39,script-security:1138.v8e727069a_025,ssh-credentials
+ :1.19;resolution:=optional,structs:308.v852b473a2b8c
+Implementation-Title: gitlab-plugin
+Long-Name: GitLab Plugin
+Implementation-Version: 1.5.29
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: GPL v2.0 License
+Specification-Title: The Jenkins Plugins Parent POM Project
+Plugin-ScmUrl: https://github.com/jenkinsci/gitlab-plugin
+Plugin-Version: 1.5.29
+Jenkins-Version: 2.289.3
+Url: https://github.com/jenkinsci/gitlab-plugin
+Short-Name: gitlab-plugin
+Plugin-License-Url: http://www.gnu.org/licenses/old-licenses/gpl-2.0-s
+ tandalone.html
+Compatible-Since-Version: 1.4.0
+Plugin-Developers: Marky Jackson:markyjackson-taulia:marky.r.jackson@g
+ mail.com
+Extension-Name: gitlab-plugin
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+

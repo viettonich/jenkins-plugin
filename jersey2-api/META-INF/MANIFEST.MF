@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.249.1
+Plugin-Dependencies: apache-httpcomponents-client-4-api:4.5.13-1.0;res
+ olution:=optional
+Implementation-Title: jersey2-api
+Long-Name: Jersey 2 API
+Implementation-Version: 2.35-4
+Group-Id: io.jenkins.plugins
+Minimum-Java-Version: 1.8
+Support-Dynamic-Loading: true
+Plugin-License-Name: EPL-2.0
+Specification-Title: Plugin providing the JAX-RS 2.1 and Jersey 2 APIs
+  for other plugins
+Plugin-ScmUrl: https://github.com/jenkinsci/jersey2-api-plugin
+Plugin-Version: 2.35-4
+Jenkins-Version: 2.249.1
+Url: https://github.com/jenkinsci/jersey2-api-plugin
+Short-Name: jersey2-api
+Plugin-License-Url: https://opensource.org/licenses/EPL-2.0
+Plugin-Developers: 
+Extension-Name: jersey2-api
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+
